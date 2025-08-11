@@ -10,7 +10,7 @@ CREATE TABLE customers (
 
 CREATE TABLE products (
 -- product id 
---  name 
+-- name 
 -- kind of product
 -- price 
 );
